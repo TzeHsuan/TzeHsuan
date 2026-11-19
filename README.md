@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TzeHsuan
 - 🇹🇼 A passionate data scientist/analyst from Taiwan
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning databases and machine laerning.
+- 👀 I’m interested in data science and data engineering
+- 🌱 I’m currently learning databases, data pipelines and machine learning.
 - 📝 Here is a space where I store my past projects and homeworks.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tzehsuan" alt="tzehsuan" /></a> </p>
